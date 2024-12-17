@@ -36,9 +36,10 @@ Before running the application, ensure you have the following installed:
 3. **Run the Streamlit application**:
     ```bash
     streamlit run app.py  
-4. **Access the app: Open your web browser and navigate to:
+4. **Access the app: Open your web browser and navigate to**:
     ```bash
    http://localhost:8501
+5. **Acess the streamlit deployed project through [here](https://statementsentimentanalysis.streamlit.app/))
 
 
 
